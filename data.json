@@ -1,0 +1,1852 @@
+{
+    "data": [
+      {
+        "Year": 1800,
+        "usBlueCollar": 0.04,
+        "usUnskilled": 0.04,
+        "ukWage": 0.0076,
+        "usPopulation": " 5,308,483 ",
+        "worldPopulation": " 985,340,629 "
+      },
+      {
+        "Year": 1801,
+        "usBlueCollar": 0.04,
+        "usUnskilled": 0.04,
+        "ukWage": 0.0076,
+        "usPopulation": " 5,501,623 ",
+        "worldPopulation": " 987,628,322 "
+      },
+      {
+        "Year": 1802,
+        "usBlueCollar": 0.04,
+        "usUnskilled": 0.05,
+        "ukWage": 0.0074,
+        "usPopulation": " 5,694,763 ",
+        "worldPopulation": " 991,098,738 "
+      },
+      {
+        "Year": 1803,
+        "usBlueCollar": 0.04,
+        "usUnskilled": 0.03,
+        "ukWage": 0.0076,
+        "usPopulation": " 5,887,902 ",
+        "worldPopulation": " 994,610,260 "
+      },
+      {
+        "Year": 1804,
+        "usBlueCollar": 0.05,
+        "usUnskilled": 0.04,
+        "ukWage": 0.0079,
+        "usPopulation": " 6,081,042 ",
+        "worldPopulation": " 998,163,240 "
+      },
+      {
+        "Year": 1805,
+        "usBlueCollar": 0.05,
+        "usUnskilled": 0.04,
+        "ukWage": 0.0085,
+        "usPopulation": " 6,274,182 ",
+        "worldPopulation": " 1,001,758,044 "
+      },
+      {
+        "Year": 1806,
+        "usBlueCollar": 0.05,
+        "usUnskilled": 0.05,
+        "ukWage": 0.0085,
+        "usPopulation": " 6,467,322 ",
+        "worldPopulation": " 1,005,395,067 "
+      },
+      {
+        "Year": 1807,
+        "usBlueCollar": 0.05,
+        "usUnskilled": 0.04,
+        "ukWage": 0.0086,
+        "usPopulation": " 6,660,462 ",
+        "worldPopulation": " 1,009,074,742 "
+      },
+      {
+        "Year": 1808,
+        "usBlueCollar": 0.05,
+        "usUnskilled": 0.04,
+        "ukWage": 0.0086,
+        "usPopulation": " 6,853,601 ",
+        "worldPopulation": " 1,012,797,513 "
+      },
+      {
+        "Year": 1809,
+        "usBlueCollar": 0.05,
+        "usUnskilled": 0.06,
+        "ukWage": 0.0088,
+        "usPopulation": " 7,046,741 ",
+        "worldPopulation": " 1,016,563,866 "
+      },
+      {
+        "Year": 1810,
+        "usBlueCollar": 0.05,
+        "usUnskilled": 0.05,
+        "ukWage": 0.009,
+        "usPopulation": " 7,239,881 ",
+        "worldPopulation": " 1,022,629,692 "
+      },
+      {
+        "Year": 1811,
+        "usBlueCollar": 0.05,
+        "usUnskilled": 0.06,
+        "ukWage": 0.009,
+        "usPopulation": " 7,479,738 ",
+        "worldPopulation": " 1,027,487,469 "
+      },
+      {
+        "Year": 1812,
+        "usBlueCollar": 0.05,
+        "usUnskilled": 0.06,
+        "ukWage": 0.0092,
+        "usPopulation": " 7,719,595 ",
+        "worldPopulation": " 1,033,636,618 "
+      },
+      {
+        "Year": 1813,
+        "usBlueCollar": 0.05,
+        "usUnskilled": 0.05,
+        "ukWage": 0.0092,
+        "usPopulation": " 7,959,453 ",
+        "worldPopulation": " 1,040,443,689 "
+      },
+      {
+        "Year": 1814,
+        "usBlueCollar": 0.05,
+        "usUnskilled": 0.06,
+        "ukWage": 0.0091,
+        "usPopulation": " 8,199,310 ",
+        "worldPopulation": " 1,047,427,292 "
+      },
+      {
+        "Year": 1815,
+        "usBlueCollar": 0.05,
+        "usUnskilled": 0.06,
+        "ukWage": 0.0087,
+        "usPopulation": " 8,439,167 ",
+        "worldPopulation": " 1,054,586,106 "
+      },
+      {
+        "Year": 1816,
+        "usBlueCollar": 0.05,
+        "usUnskilled": 0.07,
+        "ukWage": 0.0085,
+        "usPopulation": " 8,679,024 ",
+        "worldPopulation": " 1,061,924,513 "
+      },
+      {
+        "Year": 1817,
+        "usBlueCollar": 0.05,
+        "usUnskilled": 0.06,
+        "ukWage": 0.0084,
+        "usPopulation": " 8,918,881 ",
+        "worldPopulation": " 1,069,447,070 "
+      },
+      {
+        "Year": 1818,
+        "usBlueCollar": 0.05,
+        "usUnskilled": 0.04,
+        "ukWage": 0.0082,
+        "usPopulation": " 9,158,739 ",
+        "worldPopulation": " 1,077,158,552 "
+      },
+      {
+        "Year": 1819,
+        "usBlueCollar": 0.05,
+        "usUnskilled": 0.05,
+        "ukWage": 0.0082,
+        "usPopulation": " 9,398,596 ",
+        "worldPopulation": " 1,084,757,875 "
+      },
+      {
+        "Year": 1820,
+        "usBlueCollar": 0.04,
+        "usUnskilled": 0.04,
+        "ukWage": 0.0079,
+        "usPopulation": " 9,638,453 ",
+        "worldPopulation": " 1,093,424,863 "
+      },
+      {
+        "Year": 1821,
+        "usBlueCollar": 0.05,
+        "usUnskilled": 0.05,
+        "ukWage": 0.0075,
+        "usPopulation": " 9,961,210 ",
+        "worldPopulation": " 1,099,331,577 "
+      },
+      {
+        "Year": 1822,
+        "usBlueCollar": 0.05,
+        "usUnskilled": 0.04,
+        "ukWage": 0.0074,
+        "usPopulation": " 10,283,966 ",
+        "worldPopulation": " 1,106,263,783 "
+      },
+      {
+        "Year": 1823,
+        "usBlueCollar": 0.05,
+        "usUnskilled": 0.05,
+        "ukWage": 0.0073,
+        "usPopulation": " 10,606,723 ",
+        "worldPopulation": " 1,113,514,792 "
+      },
+      {
+        "Year": 1824,
+        "usBlueCollar": 0.05,
+        "usUnskilled": 0.05,
+        "ukWage": 0.0074,
+        "usPopulation": " 10,929,480 ",
+        "worldPopulation": " 1,120,876,169 "
+      },
+      {
+        "Year": 1825,
+        "usBlueCollar": 0.05,
+        "usUnskilled": 0.04,
+        "ukWage": 0.0075,
+        "usPopulation": " 11,252,237 ",
+        "worldPopulation": " 1,128,342,960 "
+      },
+      {
+        "Year": 1826,
+        "usBlueCollar": 0.05,
+        "usUnskilled": 0.04,
+        "ukWage": 0.0075,
+        "usPopulation": " 11,574,993 ",
+        "worldPopulation": " 1,135,961,188 "
+      },
+      {
+        "Year": 1827,
+        "usBlueCollar": 0.05,
+        "usUnskilled": 0.04,
+        "ukWage": 0.0073,
+        "usPopulation": " 11,897,750 ",
+        "worldPopulation": " 1,143,684,846 "
+      },
+      {
+        "Year": 1828,
+        "usBlueCollar": 0.05,
+        "usUnskilled": 0.04,
+        "ukWage": 0.0073,
+        "usPopulation": " 12,220,507 ",
+        "worldPopulation": " 1,151,515,422 "
+      },
+      {
+        "Year": 1829,
+        "usBlueCollar": 0.06,
+        "usUnskilled": 0.04,
+        "ukWage": 0.0073,
+        "usPopulation": " 12,543,263 ",
+        "worldPopulation": " 1,158,898,384 "
+      },
+      {
+        "Year": 1830,
+        "usBlueCollar": 0.06,
+        "usUnskilled": 0.04,
+        "ukWage": 0.0072,
+        "usPopulation": " 12,866,020 ",
+        "worldPopulation": " 1,166,619,223 "
+      },
+      {
+        "Year": 1831,
+        "usBlueCollar": 0.06,
+        "usUnskilled": 0.04,
+        "ukWage": 0.0073,
+        "usPopulation": " 13,286,363 ",
+        "worldPopulation": " 1,172,266,726 "
+      },
+      {
+        "Year": 1832,
+        "usBlueCollar": 0.05,
+        "usUnskilled": 0.04,
+        "ukWage": 0.0073,
+        "usPopulation": " 13,706,707 ",
+        "worldPopulation": " 1,178,216,298 "
+      },
+      {
+        "Year": 1833,
+        "usBlueCollar": 0.06,
+        "usUnskilled": 0.04,
+        "ukWage": 0.0073,
+        "usPopulation": " 14,127,050 ",
+        "worldPopulation": " 1,183,684,120 "
+      },
+      {
+        "Year": 1834,
+        "usBlueCollar": 0.05,
+        "usUnskilled": 0.05,
+        "ukWage": 0.0073,
+        "usPopulation": " 14,547,393 ",
+        "worldPopulation": " 1,189,202,983 "
+      },
+      {
+        "Year": 1835,
+        "usBlueCollar": 0.05,
+        "usUnskilled": 0.05,
+        "ukWage": 0.0073,
+        "usPopulation": " 14,967,737 ",
+        "worldPopulation": " 1,194,812,021 "
+      },
+      {
+        "Year": 1836,
+        "usBlueCollar": 0.05,
+        "usUnskilled": 0.05,
+        "ukWage": 0.0075,
+        "usPopulation": " 15,388,080 ",
+        "worldPopulation": " 1,200,422,586 "
+      },
+      {
+        "Year": 1837,
+        "usBlueCollar": 0.06,
+        "usUnskilled": 0.06,
+        "ukWage": 0.0076,
+        "usPopulation": " 15,808,423 ",
+        "worldPopulation": " 1,206,132,721 "
+      },
+      {
+        "Year": 1838,
+        "usBlueCollar": 0.06,
+        "usUnskilled": 0.05,
+        "ukWage": 0.0078,
+        "usPopulation": " 16,228,766 ",
+        "worldPopulation": " 1,211,908,617 "
+      },
+      {
+        "Year": 1839,
+        "usBlueCollar": 0.06,
+        "usUnskilled": 0.05,
+        "ukWage": 0.0079,
+        "usPopulation": " 16,649,110 ",
+        "worldPopulation": " 1,217,625,799 "
+      },
+      {
+        "Year": 1840,
+        "usBlueCollar": 0.06,
+        "usUnskilled": 0.04,
+        "ukWage": 0.008,
+        "usPopulation": " 17,069,453 ",
+        "worldPopulation": " 1,224,117,982 "
+      },
+      {
+        "Year": 1841,
+        "usBlueCollar": 0.06,
+        "usUnskilled": 0.05,
+        "ukWage": 0.008,
+        "usPopulation": " 17,681,695 ",
+        "worldPopulation": " 1,228,828,189 "
+      },
+      {
+        "Year": 1842,
+        "usBlueCollar": 0.06,
+        "usUnskilled": 0.05,
+        "ukWage": 0.0079,
+        "usPopulation": " 18,293,938 ",
+        "worldPopulation": " 1,234,333,753 "
+      },
+      {
+        "Year": 1843,
+        "usBlueCollar": 0.06,
+        "usUnskilled": 0.05,
+        "ukWage": 0.0078,
+        "usPopulation": " 18,906,180 ",
+        "worldPopulation": " 1,239,880,237 "
+      },
+      {
+        "Year": 1844,
+        "usBlueCollar": 0.06,
+        "usUnskilled": 0.05,
+        "ukWage": 0.0079,
+        "usPopulation": " 19,518,422 ",
+        "worldPopulation": " 1,245,319,917 "
+      },
+      {
+        "Year": 1845,
+        "usBlueCollar": 0.06,
+        "usUnskilled": 0.05,
+        "ukWage": 0.008,
+        "usPopulation": " 20,130,665 ",
+        "worldPopulation": " 1,250,936,428 "
+      },
+      {
+        "Year": 1846,
+        "usBlueCollar": 0.06,
+        "usUnskilled": 0.05,
+        "ukWage": 0.0083,
+        "usPopulation": " 20,742,907 ",
+        "worldPopulation": " 1,256,637,463 "
+      },
+      {
+        "Year": 1847,
+        "usBlueCollar": 0.06,
+        "usUnskilled": 0.04,
+        "ukWage": 0.0086,
+        "usPopulation": " 21,355,149 ",
+        "worldPopulation": " 1,262,424,720 "
+      },
+      {
+        "Year": 1848,
+        "usBlueCollar": 0.07,
+        "usUnskilled": 0.05,
+        "ukWage": 0.0082,
+        "usPopulation": " 21,967,391 ",
+        "worldPopulation": " 1,268,300,005 "
+      },
+      {
+        "Year": 1849,
+        "usBlueCollar": 0.06,
+        "usUnskilled": 0.05,
+        "ukWage": 0.0081,
+        "usPopulation": " 22,579,634 ",
+        "worldPopulation": " 1,273,394,934 "
+      },
+      {
+        "Year": 1850,
+        "usBlueCollar": 0.06,
+        "usUnskilled": 0.05,
+        "ukWage": 0.0081,
+        "usPopulation": " 23,191,876 ",
+        "worldPopulation": " 1,278,810,377 "
+      },
+      {
+        "Year": 1851,
+        "usBlueCollar": 0.06,
+        "usUnskilled": 0.05,
+        "ukWage": 0.0081,
+        "usPopulation": " 24,017,021 ",
+        "worldPopulation": " 1,280,744,899 "
+      },
+      {
+        "Year": 1852,
+        "usBlueCollar": 0.07,
+        "usUnskilled": 0.05,
+        "ukWage": 0.0082,
+        "usPopulation": " 24,842,165 ",
+        "worldPopulation": " 1,282,983,708 "
+      },
+      {
+        "Year": 1853,
+        "usBlueCollar": 0.07,
+        "usUnskilled": 0.05,
+        "ukWage": 0.0087,
+        "usPopulation": " 25,667,310 ",
+        "worldPopulation": " 1,284,472,373 "
+      },
+      {
+        "Year": 1854,
+        "usBlueCollar": 0.07,
+        "usUnskilled": 0.06,
+        "ukWage": 0.0093,
+        "usPopulation": " 26,492,454 ",
+        "worldPopulation": " 1,286,078,878 "
+      },
+      {
+        "Year": 1855,
+        "usBlueCollar": 0.07,
+        "usUnskilled": 0.06,
+        "ukWage": 0.0095,
+        "usPopulation": " 27,317,599 ",
+        "worldPopulation": " 1,287,785,678 "
+      },
+      {
+        "Year": 1856,
+        "usBlueCollar": 0.07,
+        "usUnskilled": 0.06,
+        "ukWage": 0.0097,
+        "usPopulation": " 28,142,743 ",
+        "worldPopulation": " 1,289,613,085 "
+      },
+      {
+        "Year": 1857,
+        "usBlueCollar": 0.07,
+        "usUnskilled": 0.06,
+        "ukWage": 0.0096,
+        "usPopulation": " 28,967,888 ",
+        "worldPopulation": " 1,291,556,308 "
+      },
+      {
+        "Year": 1858,
+        "usBlueCollar": 0.08,
+        "usUnskilled": 0.06,
+        "ukWage": 0.0093,
+        "usPopulation": " 29,793,032 ",
+        "worldPopulation": " 1,293,616,943 "
+      },
+      {
+        "Year": 1859,
+        "usBlueCollar": 0.08,
+        "usUnskilled": 0.06,
+        "ukWage": 0.0094,
+        "usPopulation": " 30,618,177 ",
+        "worldPopulation": " 1,296,053,087 "
+      },
+      {
+        "Year": 1860,
+        "usBlueCollar": 0.08,
+        "usUnskilled": 0.06,
+        "ukWage": 0.0097,
+        "usPopulation": " 31,443,321 ",
+        "worldPopulation": " 1,300,098,076 "
+      },
+      {
+        "Year": 1861,
+        "usBlueCollar": 0.08,
+        "usUnskilled": 0.06,
+        "ukWage": 0.0099,
+        "usPopulation": " 32,154,826 ",
+        "worldPopulation": " 1,302,046,862 "
+      },
+      {
+        "Year": 1862,
+        "usBlueCollar": 0.09,
+        "usUnskilled": 0.06,
+        "ukWage": 0.01,
+        "usPopulation": " 32,866,331 ",
+        "worldPopulation": " 1,305,560,612 "
+      },
+      {
+        "Year": 1863,
+        "usBlueCollar": 0.1,
+        "usUnskilled": 0.07,
+        "ukWage": 0.01,
+        "usPopulation": " 33,577,836 ",
+        "worldPopulation": " 1,309,444,051 "
+      },
+      {
+        "Year": 1864,
+        "usBlueCollar": 0.11,
+        "usUnskilled": 0.08,
+        "ukWage": 0.0101,
+        "usPopulation": " 34,289,341 ",
+        "worldPopulation": " 1,313,410,603 "
+      },
+      {
+        "Year": 1865,
+        "usBlueCollar": 0.11,
+        "usUnskilled": 0.09,
+        "ukWage": 0.0104,
+        "usPopulation": " 35,000,846 ",
+        "worldPopulation": " 1,317,453,657 "
+      },
+      {
+        "Year": 1866,
+        "usBlueCollar": 0.11,
+        "usUnskilled": 0.09,
+        "ukWage": 0.0109,
+        "usPopulation": " 35,712,351 ",
+        "worldPopulation": " 1,321,572,626 "
+      },
+      {
+        "Year": 1867,
+        "usBlueCollar": 0.11,
+        "usUnskilled": 0.09,
+        "ukWage": 0.011,
+        "usPopulation": " 36,423,856 ",
+        "worldPopulation": " 1,325,775,239 "
+      },
+      {
+        "Year": 1868,
+        "usBlueCollar": 0.11,
+        "usUnskilled": 0.09,
+        "ukWage": 0.011,
+        "usPopulation": " 37,135,361 ",
+        "worldPopulation": " 1,330,060,419 "
+      },
+      {
+        "Year": 1869,
+        "usBlueCollar": 0.11,
+        "usUnskilled": 0.09,
+        "ukWage": 0.0109,
+        "usPopulation": " 37,846,866 ",
+        "worldPopulation": " 1,334,928,493 "
+      },
+      {
+        "Year": 1870,
+        "usBlueCollar": 0.11,
+        "usUnskilled": 0.09,
+        "ukWage": 0.0111,
+        "usPopulation": " 38,558,371 ",
+        "worldPopulation": " 1,341,697,614 "
+      },
+      {
+        "Year": 1871,
+        "usBlueCollar": 0.12,
+        "usUnskilled": 0.09,
+        "ukWage": 0.0115,
+        "usPopulation": " 39,721,455 ",
+        "worldPopulation": " 1,346,406,314 "
+      },
+      {
+        "Year": 1872,
+        "usBlueCollar": 0.12,
+        "usUnskilled": 0.09,
+        "ukWage": 0.0124,
+        "usPopulation": " 40,884,539 ",
+        "worldPopulation": " 1,353,032,986 "
+      },
+      {
+        "Year": 1873,
+        "usBlueCollar": 0.12,
+        "usUnskilled": 0.08,
+        "ukWage": 0.0133,
+        "usPopulation": " 42,047,622 ",
+        "worldPopulation": " 1,360,261,504 "
+      },
+      {
+        "Year": 1874,
+        "usBlueCollar": 0.12,
+        "usUnskilled": 0.08,
+        "ukWage": 0.0134,
+        "usPopulation": " 43,210,706 ",
+        "worldPopulation": " 1,367,561,973 "
+      },
+      {
+        "Year": 1875,
+        "usBlueCollar": 0.12,
+        "usUnskilled": 0.08,
+        "ukWage": 0.0134,
+        "usPopulation": " 44,373,790 ",
+        "worldPopulation": " 1,374,962,430 "
+      },
+      {
+        "Year": 1876,
+        "usBlueCollar": 0.11,
+        "usUnskilled": 0.07,
+        "ukWage": 0.0134,
+        "usPopulation": " 45,536,874 ",
+        "worldPopulation": " 1,382,443,050 "
+      },
+      {
+        "Year": 1877,
+        "usBlueCollar": 0.11,
+        "usUnskilled": 0.07,
+        "ukWage": 0.0135,
+        "usPopulation": " 46,699,958 ",
+        "worldPopulation": " 1,389,974,777 "
+      },
+      {
+        "Year": 1878,
+        "usBlueCollar": 0.11,
+        "usUnskilled": 0.07,
+        "ukWage": 0.0133,
+        "usPopulation": " 47,863,041 ",
+        "worldPopulation": " 1,397,574,403 "
+      },
+      {
+        "Year": 1879,
+        "usBlueCollar": 0.11,
+        "usUnskilled": 0.07,
+        "ukWage": 0.013,
+        "usPopulation": " 49,026,125 ",
+        "worldPopulation": " 1,405,702,618 "
+      },
+      {
+        "Year": 1880,
+        "usBlueCollar": 0.11,
+        "usUnskilled": 0.07,
+        "ukWage": 0.013,
+        "usPopulation": " 50,189,209 ",
+        "worldPopulation": " 1,415,841,209 "
+      },
+      {
+        "Year": 1881,
+        "usBlueCollar": 0.11,
+        "usUnskilled": 0.07,
+        "ukWage": 0.0131,
+        "usPopulation": " 51,468,265 ",
+        "worldPopulation": " 1,423,704,727 "
+      },
+      {
+        "Year": 1882,
+        "usBlueCollar": 0.11,
+        "usUnskilled": 0.08,
+        "ukWage": 0.0133,
+        "usPopulation": " 52,747,320 ",
+        "worldPopulation": " 1,433,553,127 "
+      },
+      {
+        "Year": 1883,
+        "usBlueCollar": 0.11,
+        "usUnskilled": 0.08,
+        "ukWage": 0.0133,
+        "usPopulation": " 54,026,376 ",
+        "worldPopulation": " 1,444,009,167 "
+      },
+      {
+        "Year": 1884,
+        "usBlueCollar": 0.12,
+        "usUnskilled": 0.08,
+        "ukWage": 0.0133,
+        "usPopulation": " 55,305,432 ",
+        "worldPopulation": " 1,454,595,037 "
+      },
+      {
+        "Year": 1885,
+        "usBlueCollar": 0.12,
+        "usUnskilled": 0.08,
+        "ukWage": 0.0131,
+        "usPopulation": " 56,584,488 ",
+        "worldPopulation": " 1,465,369,425 "
+      },
+      {
+        "Year": 1886,
+        "usBlueCollar": 0.12,
+        "usUnskilled": 0.08,
+        "ukWage": 0.013,
+        "usPopulation": " 57,863,543 ",
+        "worldPopulation": " 1,476,245,076 "
+      },
+      {
+        "Year": 1887,
+        "usBlueCollar": 0.13,
+        "usUnskilled": 0.08,
+        "ukWage": 0.0131,
+        "usPopulation": " 59,142,599 ",
+        "worldPopulation": " 1,487,277,339 "
+      },
+      {
+        "Year": 1888,
+        "usBlueCollar": 0.13,
+        "usUnskilled": 0.08,
+        "ukWage": 0.0132,
+        "usPopulation": " 60,421,655 ",
+        "worldPopulation": " 1,498,437,207 "
+      },
+      {
+        "Year": 1889,
+        "usBlueCollar": 0.13,
+        "usUnskilled": 0.08,
+        "ukWage": 0.0135,
+        "usPopulation": " 61,700,710 ",
+        "worldPopulation": " 1,509,373,834 "
+      },
+      {
+        "Year": 1890,
+        "usBlueCollar": 0.13,
+        "usUnskilled": 0.08,
+        "ukWage": 0.014,
+        "usPopulation": " 62,979,766 ",
+        "worldPopulation": " 1,521,669,265 "
+      },
+      {
+        "Year": 1891,
+        "usBlueCollar": 0.13,
+        "usUnskilled": 0.08,
+        "ukWage": 0.0143,
+        "usPopulation": " 64,303,006 ",
+        "worldPopulation": " 1,530,611,585 "
+      },
+      {
+        "Year": 1892,
+        "usBlueCollar": 0.13,
+        "usUnskilled": 0.08,
+        "ukWage": 0.0143,
+        "usPopulation": " 65,626,246 ",
+        "worldPopulation": " 1,540,822,549 "
+      },
+      {
+        "Year": 1893,
+        "usBlueCollar": 0.14,
+        "usUnskilled": 0.08,
+        "ukWage": 0.0144,
+        "usPopulation": " 66,949,487 ",
+        "worldPopulation": " 1,550,822,689 "
+      },
+      {
+        "Year": 1894,
+        "usBlueCollar": 0.13,
+        "usUnskilled": 0.08,
+        "ukWage": 0.0144,
+        "usPopulation": " 68,272,727 ",
+        "worldPopulation": " 1,560,960,959 "
+      },
+      {
+        "Year": 1895,
+        "usBlueCollar": 0.13,
+        "usUnskilled": 0.08,
+        "ukWage": 0.0144,
+        "usPopulation": " 69,595,967 ",
+        "worldPopulation": " 1,571,250,732 "
+      },
+      {
+        "Year": 1896,
+        "usBlueCollar": 0.13,
+        "usUnskilled": 0.08,
+        "ukWage": 0.0146,
+        "usPopulation": " 70,919,207 ",
+        "worldPopulation": " 1,581,628,826 "
+      },
+      {
+        "Year": 1897,
+        "usBlueCollar": 0.13,
+        "usUnskilled": 0.08,
+        "ukWage": 0.0149,
+        "usPopulation": " 72,242,447 ",
+        "worldPopulation": " 1,592,152,786 "
+      },
+      {
+        "Year": 1898,
+        "usBlueCollar": 0.13,
+        "usUnskilled": 0.08,
+        "ukWage": 0.0153,
+        "usPopulation": " 73,565,688 ",
+        "worldPopulation": " 1,602,801,870 "
+      },
+      {
+        "Year": 1899,
+        "usBlueCollar": 0.13,
+        "usUnskilled": 0.08,
+        "ukWage": 0.0154,
+        "usPopulation": " 74,888,928 ",
+        "worldPopulation": " 1,614,109,121 "
+      },
+      {
+        "Year": 1900,
+        "usBlueCollar": 0.14,
+        "usUnskilled": 0.09,
+        "ukWage": 0.016,
+        "usPopulation": " 76,212,168 ",
+        "worldPopulation": " 1,627,883,132 "
+      },
+      {
+        "Year": 1901,
+        "usBlueCollar": 0.14,
+        "usUnskilled": 0.09,
+        "ukWage": 0.0161,
+        "usPopulation": " 77,813,801 ",
+        "worldPopulation": " 1,638,647,517 "
+      },
+      {
+        "Year": 1902,
+        "usBlueCollar": 0.15,
+        "usUnskilled": 0.09,
+        "ukWage": 0.0162,
+        "usPopulation": " 79,415,434 ",
+        "worldPopulation": " 1,651,840,077 "
+      },
+      {
+        "Year": 1903,
+        "usBlueCollar": 0.15,
+        "usUnskilled": 0.09,
+        "ukWage": 0.0162,
+        "usPopulation": " 81,017,066 ",
+        "worldPopulation": " 1,665,703,540 "
+      },
+      {
+        "Year": 1904,
+        "usBlueCollar": 0.15,
+        "usUnskilled": 0.09,
+        "ukWage": 0.0162,
+        "usPopulation": " 82,618,699 ",
+        "worldPopulation": " 1,679,752,718 "
+      },
+      {
+        "Year": 1905,
+        "usBlueCollar": 0.16,
+        "usUnskilled": 0.1,
+        "ukWage": 0.0163,
+        "usPopulation": " 84,220,332 ",
+        "worldPopulation": " 1,693,984,163 "
+      },
+      {
+        "Year": 1906,
+        "usBlueCollar": 0.16,
+        "usUnskilled": 0.1,
+        "ukWage": 0.0165,
+        "usPopulation": " 85,821,965 ",
+        "worldPopulation": " 1,708,411,294 "
+      },
+      {
+        "Year": 1907,
+        "usBlueCollar": 0.17,
+        "usUnskilled": 0.11,
+        "ukWage": 0.0169,
+        "usPopulation": " 87,423,598 ",
+        "worldPopulation": " 1,723,032,738 "
+      },
+      {
+        "Year": 1908,
+        "usBlueCollar": 0.16,
+        "usUnskilled": 0.1,
+        "ukWage": 0.017,
+        "usPopulation": " 89,025,230 ",
+        "worldPopulation": " 1,737,874,788 "
+      },
+      {
+        "Year": 1909,
+        "usBlueCollar": 0.17,
+        "usUnskilled": 0.1,
+        "ukWage": 0.0171,
+        "usPopulation": " 90,626,863 ",
+        "worldPopulation": " 1,752,122,665 "
+      },
+      {
+        "Year": 1910,
+        "usBlueCollar": 0.18,
+        "usUnskilled": 0.11,
+        "ukWage": 0.0172,
+        "usPopulation": " 92,228,496 ",
+        "worldPopulation": " 1,767,847,653 "
+      },
+      {
+        "Year": 1911,
+        "usBlueCollar": 0.18,
+        "usUnskilled": 0.1,
+        "ukWage": 0.0175,
+        "usPopulation": " 93,607,800 ",
+        "worldPopulation": " 1,778,784,032 "
+      },
+      {
+        "Year": 1912,
+        "usBlueCollar": 0.19,
+        "usUnskilled": 0.1,
+        "ukWage": 0.018,
+        "usPopulation": " 94,987,104 ",
+        "worldPopulation": " 1,791,197,929 "
+      },
+      {
+        "Year": 1913,
+        "usBlueCollar": 0.2,
+        "usUnskilled": 0.11,
+        "ukWage": 0.0186,
+        "usPopulation": " 96,366,408 ",
+        "worldPopulation": " 1,803,056,235 "
+      },
+      {
+        "Year": 1914,
+        "usBlueCollar": 0.2,
+        "usUnskilled": 0.11,
+        "ukWage": 0.0188,
+        "usPopulation": " 97,745,712 ",
+        "worldPopulation": " 1,815,104,863 "
+      },
+      {
+        "Year": 1915,
+        "usBlueCollar": 0.2,
+        "usUnskilled": 0.11,
+        "ukWage": 0.0218,
+        "usPopulation": " 99,125,017 ",
+        "worldPopulation": " 1,827,290,389 "
+      },
+      {
+        "Year": 1916,
+        "usBlueCollar": 0.24,
+        "usUnskilled": 0.14,
+        "ukWage": 0.0248,
+        "usPopulation": " 100,504,321 ",
+        "worldPopulation": " 1,839,559,287 "
+      },
+      {
+        "Year": 1917,
+        "usBlueCollar": 0.29,
+        "usUnskilled": 0.17,
+        "ukWage": 0.0317,
+        "usPopulation": " 101,883,625 ",
+        "worldPopulation": " 1,851,899,055 "
+      },
+      {
+        "Year": 1918,
+        "usBlueCollar": 0.36,
+        "usUnskilled": 0.21,
+        "ukWage": 0.0394,
+        "usPopulation": " 103,262,929 ",
+        "worldPopulation": " 1,864,869,126 "
+      },
+      {
+        "Year": 1919,
+        "usBlueCollar": 0.43,
+        "usUnskilled": 0.25,
+        "ukWage": 0.0497,
+        "usPopulation": " 104,642,233 ",
+        "worldPopulation": " 1,878,650,358 "
+      },
+      {
+        "Year": 1920,
+        "usBlueCollar": 0.54,
+        "usUnskilled": 0.29,
+        "ukWage": 0.0597,
+        "usPopulation": " 106,021,537 ",
+        "worldPopulation": " 1,895,682,150 "
+      },
+      {
+        "Year": 1921,
+        "usBlueCollar": 0.48,
+        "usUnskilled": 0.24,
+        "ukWage": 0.0583,
+        "usPopulation": " 107,739,646 ",
+        "worldPopulation": " 1,908,748,639 "
+      },
+      {
+        "Year": 1922,
+        "usBlueCollar": 0.44,
+        "usUnskilled": 0.22,
+        "ukWage": 0.0464,
+        "usPopulation": " 109,457,754 ",
+        "worldPopulation": " 1,924,826,120 "
+      },
+      {
+        "Year": 1923,
+        "usBlueCollar": 0.48,
+        "usUnskilled": 0.24,
+        "ukWage": 0.0433,
+        "usPopulation": " 111,175,863 ",
+        "worldPopulation": " 1,941,636,900 "
+      },
+      {
+        "Year": 1924,
+        "usBlueCollar": 0.51,
+        "usUnskilled": 0.25,
+        "ukWage": 0.0446,
+        "usPopulation": " 112,893,972 ",
+        "worldPopulation": " 1,958,716,901 "
+      },
+      {
+        "Year": 1925,
+        "usBlueCollar": 0.5,
+        "usUnskilled": 0.25,
+        "ukWage": 0.0446,
+        "usPopulation": " 114,612,081 ",
+        "worldPopulation": " 1,976,068,839 "
+      },
+      {
+        "Year": 1926,
+        "usBlueCollar": 0.51,
+        "usUnskilled": 0.25,
+        "ukWage": 0.0439,
+        "usPopulation": " 116,330,189 ",
+        "worldPopulation": " 1,993,719,848 "
+      },
+      {
+        "Year": 1927,
+        "usBlueCollar": 0.52,
+        "usUnskilled": 0.26,
+        "ukWage": 0.0435,
+        "usPopulation": " 118,048,298 ",
+        "worldPopulation": " 2,011,689,749 "
+      },
+      {
+        "Year": 1928,
+        "usBlueCollar": 0.52,
+        "usUnskilled": 0.26,
+        "ukWage": 0.0429,
+        "usPopulation": " 119,766,407 ",
+        "worldPopulation": " 2,029,682,397 "
+      },
+      {
+        "Year": 1929,
+        "usBlueCollar": 0.52,
+        "usUnskilled": 0.26,
+        "ukWage": 0.0434,
+        "usPopulation": " 121,484,515 ",
+        "worldPopulation": " 2,048,513,689 "
+      },
+      {
+        "Year": 1930,
+        "usBlueCollar": 0.53,
+        "usUnskilled": 0.26,
+        "ukWage": 0.043,
+        "usPopulation": " 123,202,624 ",
+        "worldPopulation": " 2,070,596,353 "
+      },
+      {
+        "Year": 1931,
+        "usBlueCollar": 0.51,
+        "usUnskilled": 0.25,
+        "ukWage": 0.0422,
+        "usPopulation": " 124,098,819 ",
+        "worldPopulation": " 2,088,429,965 "
+      },
+      {
+        "Year": 1932,
+        "usBlueCollar": 0.45,
+        "usUnskilled": 0.22,
+        "ukWage": 0.0413,
+        "usPopulation": " 124,995,013 ",
+        "worldPopulation": " 2,109,357,892 "
+      },
+      {
+        "Year": 1933,
+        "usBlueCollar": 0.44,
+        "usUnskilled": 0.22,
+        "ukWage": 0.0411,
+        "usPopulation": " 125,891,208 ",
+        "worldPopulation": " 2,131,029,147 "
+      },
+      {
+        "Year": 1934,
+        "usBlueCollar": 0.53,
+        "usUnskilled": 0.26,
+        "ukWage": 0.0415,
+        "usPopulation": " 126,787,402 ",
+        "worldPopulation": " 2,152,969,392 "
+      },
+      {
+        "Year": 1935,
+        "usBlueCollar": 0.54,
+        "usUnskilled": 0.27,
+        "ukWage": 0.0419,
+        "usPopulation": " 127,683,597 ",
+        "worldPopulation": " 2,175,184,808 "
+      },
+      {
+        "Year": 1936,
+        "usBlueCollar": 0.55,
+        "usUnskilled": 0.27,
+        "ukWage": 0.0428,
+        "usPopulation": " 128,579,791 ",
+        "worldPopulation": " 2,197,830,032 "
+      },
+      {
+        "Year": 1937,
+        "usBlueCollar": 0.63,
+        "usUnskilled": 0.31,
+        "ukWage": 0.0437,
+        "usPopulation": " 129,475,986 ",
+        "worldPopulation": " 2,220,878,589 "
+      },
+      {
+        "Year": 1938,
+        "usBlueCollar": 0.64,
+        "usUnskilled": 0.32,
+        "ukWage": 0.0476,
+        "usPopulation": " 130,372,180 ",
+        "worldPopulation": " 2,244,005,191 "
+      },
+      {
+        "Year": 1939,
+        "usBlueCollar": 0.64,
+        "usUnskilled": 0.32,
+        "ukWage": 0.0471,
+        "usPopulation": " 131,268,375 ",
+        "worldPopulation": " 2,266,483,407 "
+      },
+      {
+        "Year": 1940,
+        "usBlueCollar": 0.67,
+        "usUnskilled": 0.33,
+        "ukWage": 0.0595,
+        "usPopulation": " 132,164,569 ",
+        "worldPopulation": " 2,290,871,362 "
+      },
+      {
+        "Year": 1941,
+        "usBlueCollar": 0.74,
+        "usUnskilled": 0.37,
+        "ukWage": 0.0652,
+        "usPopulation": " 134,080,692 ",
+        "worldPopulation": " 2,307,736,768 "
+      },
+      {
+        "Year": 1942,
+        "usBlueCollar": 0.86,
+        "usUnskilled": 0.42,
+        "ukWage": 0.0737,
+        "usPopulation": " 135,996,815 ",
+        "worldPopulation": " 2,326,734,579 "
+      },
+      {
+        "Year": 1943,
+        "usBlueCollar": 0.98,
+        "usUnskilled": 0.46,
+        "ukWage": 0.0814,
+        "usPopulation": " 137,912,938 ",
+        "worldPopulation": " 2,344,581,440 "
+      },
+      {
+        "Year": 1944,
+        "usBlueCollar": 1.05,
+        "usUnskilled": 0.48,
+        "ukWage": 0.0831,
+        "usPopulation": " 139,829,061 ",
+        "worldPopulation": " 2,362,439,908 "
+      },
+      {
+        "Year": 1945,
+        "usBlueCollar": 1.06,
+        "usUnskilled": 0.5,
+        "ukWage": 0.0858,
+        "usPopulation": " 141,745,184 ",
+        "worldPopulation": " 2,380,167,769 "
+      },
+      {
+        "Year": 1946,
+        "usBlueCollar": 1.13,
+        "usUnskilled": 0.55,
+        "ukWage": 0.0908,
+        "usPopulation": " 143,661,306 ",
+        "worldPopulation": " 2,397,811,266 "
+      },
+      {
+        "Year": 1947,
+        "usBlueCollar": 1.3,
+        "usUnskilled": 0.62,
+        "ukWage": 0.101,
+        "usPopulation": " 145,577,429 ",
+        "worldPopulation": " 2,416,694,412 "
+      },
+      {
+        "Year": 1948,
+        "usBlueCollar": 1.41,
+        "usUnskilled": 0.66,
+        "ukWage": 0.1111,
+        "usPopulation": " 147,493,552 ",
+        "worldPopulation": " 2,437,259,361 "
+      },
+      {
+        "Year": 1949,
+        "usBlueCollar": 1.46,
+        "usUnskilled": 0.69,
+        "ukWage": 0.1163,
+        "usPopulation": " 149,409,675 ",
+        "worldPopulation": " 2,463,242,071 "
+      },
+      {
+        "Year": 1950,
+        "usBlueCollar": 1.55,
+        "usUnskilled": 0.72,
+        "ukWage": 0.121,
+        "usPopulation": " 151,325,798 ",
+        "worldPopulation": " 2,499,322,112 "
+      },
+      {
+        "Year": 1951,
+        "usBlueCollar": 1.72,
+        "usUnskilled": 0.78,
+        "ukWage": 0.1324,
+        "usPopulation": " 154,125,536 ",
+        "worldPopulation": " 2,543,130,368 "
+      },
+      {
+        "Year": 1952,
+        "usBlueCollar": 1.83,
+        "usUnskilled": 0.83,
+        "ukWage": 0.1453,
+        "usPopulation": " 156,925,273 ",
+        "worldPopulation": " 2,590,270,976 "
+      },
+      {
+        "Year": 1953,
+        "usBlueCollar": 1.94,
+        "usUnskilled": 0.89,
+        "ukWage": 0.1538,
+        "usPopulation": " 159,725,011 ",
+        "worldPopulation": " 2,640,278,784 "
+      },
+      {
+        "Year": 1954,
+        "usBlueCollar": 1.97,
+        "usUnskilled": 0.93,
+        "ukWage": 0.1634,
+        "usPopulation": " 162,524,749 ",
+        "worldPopulation": " 2,691,979,264 "
+      },
+      {
+        "Year": 1955,
+        "usBlueCollar": 2.05,
+        "usUnskilled": 0.97,
+        "ukWage": 0.1775,
+        "usPopulation": " 165,324,487 ",
+        "worldPopulation": " 2,746,072,064 "
+      },
+      {
+        "Year": 1956,
+        "usBlueCollar": 2.16,
+        "usUnskilled": 1.02,
+        "ukWage": 0.1931,
+        "usPopulation": " 168,124,224 ",
+        "worldPopulation": " 2,801,002,752 "
+      },
+      {
+        "Year": 1957,
+        "usBlueCollar": 2.24,
+        "usUnskilled": 1.07,
+        "ukWage": 0.2057,
+        "usPopulation": " 170,923,962 ",
+        "worldPopulation": " 2,857,866,752 "
+      },
+      {
+        "Year": 1958,
+        "usBlueCollar": 2.39,
+        "usUnskilled": 1.12,
+        "ukWage": 0.2158,
+        "usPopulation": " 173,723,700 ",
+        "worldPopulation": " 2,916,108,032 "
+      },
+      {
+        "Year": 1959,
+        "usBlueCollar": 2.45,
+        "usUnskilled": 1.16,
+        "ukWage": 0.2207,
+        "usPopulation": " 176,523,437 ",
+        "worldPopulation": " 2,970,292,224 "
+      },
+      {
+        "Year": 1960,
+        "usBlueCollar": 2.54,
+        "usUnskilled": 1.21,
+        "ukWage": 0.2344,
+        "usPopulation": " 179,323,175 ",
+        "worldPopulation": " 3,019,233,536 "
+      },
+      {
+        "Year": 1961,
+        "usBlueCollar": 2.6,
+        "usUnskilled": 1.25,
+        "ukWage": 0.2553,
+        "usPopulation": " 181,712,050 ",
+        "worldPopulation": " 3,068,370,688 "
+      },
+      {
+        "Year": 1962,
+        "usBlueCollar": 2.71,
+        "usUnskilled": 1.29,
+        "ukWage": 0.2691,
+        "usPopulation": " 184,100,925 ",
+        "worldPopulation": " 3,126,686,720 "
+      },
+      {
+        "Year": 1963,
+        "usBlueCollar": 2.83,
+        "usUnskilled": 1.33,
+        "ukWage": 0.2817,
+        "usPopulation": " 186,489,800 ",
+        "worldPopulation": " 3,195,779,328 "
+      },
+      {
+        "Year": 1964,
+        "usBlueCollar": 2.89,
+        "usUnskilled": 1.37,
+        "ukWage": 0.3057,
+        "usPopulation": " 188,878,675 ",
+        "worldPopulation": " 3,267,212,288 "
+      },
+      {
+        "Year": 1965,
+        "usBlueCollar": 3,
+        "usUnskilled": 1.41,
+        "ukWage": 0.3301,
+        "usPopulation": " 191,267,551 ",
+        "worldPopulation": " 3,337,112,064 "
+      },
+      {
+        "Year": 1966,
+        "usBlueCollar": 3.14,
+        "usUnskilled": 1.47,
+        "ukWage": 0.3614,
+        "usPopulation": " 193,656,426 ",
+        "worldPopulation": " 3,406,416,896 "
+      },
+      {
+        "Year": 1967,
+        "usBlueCollar": 3.29,
+        "usUnskilled": 1.54,
+        "ukWage": 0.3774,
+        "usPopulation": " 196,045,301 ",
+        "worldPopulation": " 3,475,448,064 "
+      },
+      {
+        "Year": 1968,
+        "usBlueCollar": 3.52,
+        "usUnskilled": 1.62,
+        "ukWage": 0.4108,
+        "usPopulation": " 198,434,176 ",
+        "worldPopulation": " 3,546,810,880 "
+      },
+      {
+        "Year": 1969,
+        "usBlueCollar": 3.72,
+        "usUnskilled": 1.72,
+        "ukWage": 0.4447,
+        "usPopulation": " 200,823,051 ",
+        "worldPopulation": " 3,620,655,360 "
+      },
+      {
+        "Year": 1970,
+        "usBlueCollar": 3.93,
+        "usUnskilled": 1.85,
+        "ukWage": 0.5123,
+        "usPopulation": " 203,211,926 ",
+        "worldPopulation": " 3,695,390,208 "
+      },
+      {
+        "Year": 1971,
+        "usBlueCollar": 4.26,
+        "usUnskilled": 1.99,
+        "ukWage": 0.5865,
+        "usPopulation": " 205,545,314 ",
+        "worldPopulation": " 3,770,163,200 "
+      },
+      {
+        "Year": 1972,
+        "usBlueCollar": 4.59,
+        "usUnskilled": 2.14,
+        "ukWage": 0.653,
+        "usPopulation": " 207,878,702 ",
+        "worldPopulation": " 3,844,800,768 "
+      },
+      {
+        "Year": 1973,
+        "usBlueCollar": 4.95,
+        "usUnskilled": 2.28,
+        "ukWage": 0.744,
+        "usPopulation": " 210,212,090 ",
+        "worldPopulation": " 3,920,251,392 "
+      },
+      {
+        "Year": 1974,
+        "usBlueCollar": 5.44,
+        "usUnskilled": 2.45,
+        "ukWage": 0.892,
+        "usPopulation": " 212,545,478 ",
+        "worldPopulation": " 3,995,516,928 "
+      },
+      {
+        "Year": 1975,
+        "usBlueCollar": 6.02,
+        "usUnskilled": 2.66,
+        "ukWage": 1.1701,
+        "usPopulation": " 214,878,866 ",
+        "worldPopulation": " 4,069,437,184 "
+      },
+      {
+        "Year": 1976,
+        "usBlueCollar": 6.53,
+        "usUnskilled": 2.91,
+        "ukWage": 1.3684,
+        "usPopulation": " 217,212,253 ",
+        "worldPopulation": " 4,142,505,728 "
+      },
+      {
+        "Year": 1977,
+        "usBlueCollar": 7.15,
+        "usUnskilled": 3.15,
+        "ukWage": 1.4966,
+        "usPopulation": " 219,545,641 ",
+        "worldPopulation": " 4,215,772,416 "
+      },
+      {
+        "Year": 1978,
+        "usBlueCollar": 7.77,
+        "usUnskilled": 3.4,
+        "ukWage": 1.6941,
+        "usPopulation": " 221,879,029 ",
+        "worldPopulation": " 4,289,657,600 "
+      },
+      {
+        "Year": 1979,
+        "usBlueCollar": 8.34,
+        "usUnskilled": 3.69,
+        "ukWage": 1.9803,
+        "usPopulation": " 224,212,417 ",
+        "worldPopulation": " 4,365,582,848 "
+      },
+      {
+        "Year": 1980,
+        "usBlueCollar": 9.12,
+        "usUnskilled": 4.06,
+        "ukWage": 2.4462,
+        "usPopulation": " 226,545,805 ",
+        "worldPopulation": " 4,444,007,936 "
+      },
+      {
+        "Year": 1981,
+        "usBlueCollar": 10,
+        "usUnskilled": 4.4,
+        "ukWage": 2.841,
+        "usPopulation": " 228,762,212 ",
+        "worldPopulation": " 4,524,627,456 "
+      },
+      {
+        "Year": 1982,
+        "usBlueCollar": 10.8,
+        "usUnskilled": 4.63,
+        "ukWage": 3.123,
+        "usPopulation": " 230,978,619 ",
+        "worldPopulation": " 4,607,984,640 "
+      },
+      {
+        "Year": 1983,
+        "usBlueCollar": 11.22,
+        "usUnskilled": 4.83,
+        "ukWage": 3.4051,
+        "usPopulation": " 233,195,025 ",
+        "worldPopulation": " 4,691,884,032 "
+      },
+      {
+        "Year": 1984,
+        "usBlueCollar": 11.78,
+        "usUnskilled": 5.01,
+        "ukWage": 3.6047,
+        "usPopulation": " 235,411,432 ",
+        "worldPopulation": " 4,775,836,160 "
+      },
+      {
+        "Year": 1985,
+        "usBlueCollar": 12.5,
+        "usUnskilled": 5.18,
+        "ukWage": 3.9205,
+        "usPopulation": " 237,627,839 ",
+        "worldPopulation": " 4,861,730,816 "
+      },
+      {
+        "Year": 1986,
+        "usBlueCollar": 12.9,
+        "usUnskilled": 5.28,
+        "ukWage": 4.2452,
+        "usPopulation": " 239,844,246 ",
+        "worldPopulation": " 4,950,063,104 "
+      },
+      {
+        "Year": 1987,
+        "usBlueCollar": 13.05,
+        "usUnskilled": 5.4,
+        "ukWage": 4.5687,
+        "usPopulation": " 242,060,653 ",
+        "worldPopulation": " 5,040,984,576 "
+      },
+      {
+        "Year": 1988,
+        "usBlueCollar": 13.58,
+        "usUnskilled": 5.6,
+        "ukWage": 4.9685,
+        "usPopulation": " 244,277,059 ",
+        "worldPopulation": " 5,132,294,144 "
+      },
+      {
+        "Year": 1989,
+        "usBlueCollar": 14,
+        "usUnskilled": 5.79,
+        "ukWage": 5.4327,
+        "usPopulation": " 246,493,466 ",
+        "worldPopulation": " 5,223,704,064 "
+      },
+      {
+        "Year": 1990,
+        "usBlueCollar": 14.41,
+        "usUnskilled": 6.03,
+        "ukWage": 6.0497,
+        "usPopulation": " 248,709,873 ",
+        "worldPopulation": " 5,316,175,872 "
+      },
+      {
+        "Year": 1991,
+        "usBlueCollar": 14.93,
+        "usUnskilled": 6.26,
+        "ukWage": 6.6168,
+        "usPopulation": " 251,981,076 ",
+        "worldPopulation": " 5,406,245,888 "
+      },
+      {
+        "Year": 1992,
+        "usBlueCollar": 15.63,
+        "usUnskilled": 6.43,
+        "ukWage": 7.0388,
+        "usPopulation": " 255,252,280 ",
+        "worldPopulation": " 5,492,686,336 "
+      },
+      {
+        "Year": 1993,
+        "usBlueCollar": 16.12,
+        "usUnskilled": 6.6,
+        "ukWage": 7.2656,
+        "usPopulation": " 258,523,483 ",
+        "worldPopulation": " 5,577,433,600 "
+      },
+      {
+        "Year": 1994,
+        "usBlueCollar": 16.56,
+        "usUnskilled": 6.78,
+        "ukWage": 7.4946,
+        "usPopulation": " 261,794,686 ",
+        "worldPopulation": " 5,660,727,808 "
+      },
+      {
+        "Year": 1995,
+        "usBlueCollar": 16.66,
+        "usUnskilled": 6.99,
+        "ukWage": 7.73,
+        "usPopulation": " 265,065,890 ",
+        "worldPopulation": " 5,743,219,712 "
+      },
+      {
+        "Year": 1996,
+        "usBlueCollar": 16.84,
+        "usUnskilled": 7.23,
+        "ukWage": 8.013,
+        "usPopulation": " 268,337,093 ",
+        "worldPopulation": " 5,825,145,344 "
+      },
+      {
+        "Year": 1997,
+        "usBlueCollar": 18.12,
+        "usUnskilled": 7.49,
+        "ukWage": 8.371,
+        "usPopulation": " 271,608,296 ",
+        "worldPopulation": " 5,906,481,152 "
+      },
+      {
+        "Year": 1998,
+        "usBlueCollar": 18.18,
+        "usUnskilled": 7.75,
+        "ukWage": 8.8281,
+        "usPopulation": " 274,879,499 ",
+        "worldPopulation": " 5,987,312,640 "
+      },
+      {
+        "Year": 1999,
+        "usBlueCollar": 18.75,
+        "usUnskilled": 8,
+        "ukWage": 9.2775,
+        "usPopulation": " 278,150,703 ",
+        "worldPopulation": " 6,067,758,592 "
+      },
+      {
+        "Year": 2000,
+        "usBlueCollar": 19.36,
+        "usUnskilled": 8.3,
+        "ukWage": 9.6141,
+        "usPopulation": " 281,421,906 ",
+        "worldPopulation": " 6,148,898,816 "
+      },
+      {
+        "Year": 2001,
+        "usBlueCollar": 19.36,
+        "usUnskilled": 8.81,
+        "ukWage": 10.118,
+        "usPopulation": " 284,154,269 ",
+        "worldPopulation": " 6,230,747,136 "
+      },
+      {
+        "Year": 2002,
+        "usBlueCollar": 21.02,
+        "usUnskilled": 8.95,
+        "ukWage": 10.5327,
+        "usPopulation": " 286,886,632 ",
+        "worldPopulation": " 6,312,407,552 "
+      },
+      {
+        "Year": 2003,
+        "usBlueCollar": 21.54,
+        "usUnskilled": 9.25,
+        "ukWage": 10.9333,
+        "usPopulation": " 289,618,996 ",
+        "worldPopulation": " 6,393,898,496 "
+      },
+      {
+        "Year": 2004,
+        "usBlueCollar": 23.07,
+        "usUnskilled": 9.25,
+        "ukWage": 11.4189,
+        "usPopulation": " 292,351,359 ",
+        "worldPopulation": " 6,475,751,424 "
+      },
+      {
+        "Year": 2005,
+        "usBlueCollar": 23.92,
+        "usUnskilled": 9.44,
+        "ukWage": 11.9277,
+        "usPopulation": " 295,083,722 ",
+        "worldPopulation": " 6,558,176,256 "
+      },
+      {
+        "Year": 2006,
+        "usBlueCollar": 24.37,
+        "usUnskilled": 9.67,
+        "ukWage": 12.5313,
+        "usPopulation": " 297,816,085 ",
+        "worldPopulation": " 6,641,416,192 "
+      },
+      {
+        "Year": 2007,
+        "usBlueCollar": 25.07,
+        "usUnskilled": 9.87,
+        "ukWage": 13.1417,
+        "usPopulation": " 300,548,448 ",
+        "worldPopulation": " 6,725,948,416 "
+      },
+      {
+        "Year": 2008,
+        "usBlueCollar": 25.87,
+        "usUnskilled": 10.45,
+        "ukWage": 13.654,
+        "usPopulation": " 303,280,812 ",
+        "worldPopulation": " 6,811,597,312 "
+      },
+      {
+        "Year": 2009,
+        "usBlueCollar": 26.15,
+        "usUnskilled": 10.47,
+        "ukWage": 13.8067,
+        "usPopulation": " 306,013,175 ",
+        "worldPopulation": " 6,898,306,048 "
+      },
+      {
+        "Year": 2010,
+        "usBlueCollar": 26.44,
+        "usUnskilled": 10.24,
+        "ukWage": 14.0507,
+        "usPopulation": " 308,745,538 ",
+        "worldPopulation": " 6,985,603,072 "
+      },
+      {
+        "Year": 2011,
+        "usBlueCollar": 26.88,
+        "usUnskilled": 10.4,
+        "ukWage": 14.4152,
+        "usPopulation": " 311,015,912 ",
+        "worldPopulation": " 7,073,125,376 "
+      },
+      {
+        "Year": 2012,
+        "usBlueCollar": 27.15,
+        "usUnskilled": 10.87,
+        "ukWage": 14.4524,
+        "usPopulation": " 313,286,287 ",
+        "worldPopulation": " 7,161,697,792 "
+      },
+      {
+        "Year": 2013,
+        "usBlueCollar": 27.92,
+        "usUnskilled": 10.89,
+        "ukWage": 14.5461,
+        "usPopulation": " 315,556,661 ",
+        "worldPopulation": " 7,250,593,280 "
+      },
+      {
+        "Year": 2014,
+        "usBlueCollar": 29.4,
+        "usUnskilled": 11.26,
+        "ukWage": 14.6461,
+        "usPopulation": " 317,827,035 ",
+        "worldPopulation": " 7,339,013,632 "
+      },
+      {
+        "Year": 2015,
+        "usBlueCollar": 30.55,
+        "usUnskilled": 11.35,
+        "ukWage": 15.0168,
+        "usPopulation": " 320,097,410 ",
+        "worldPopulation": " 7,426,597,376 "
+      },
+      {
+        "Year": 2016,
+        "usBlueCollar": 31.95,
+        "usUnskilled": 11.63,
+        "ukWage": 15.3969,
+        "usPopulation": " 322,367,784 ",
+        "worldPopulation": " 7,513,474,048 "
+      },
+      {
+        "Year": 2017,
+        "usBlueCollar": 32.39,
+        "usUnskilled": 12,
+        "ukWage": 15.7341,
+        "usPopulation": " 324,638,158 ",
+        "worldPopulation": " 7,599,822,336 "
+      },
+      {
+        "Year": 2018,
+        "usBlueCollar": 32.06,
+        "usUnskilled": 12.78,
+        "ukWage": 16.257,
+        "usPopulation": " 326,908,532 ",
+        "worldPopulation": " 7,683,789,824 "
+      },
+      {
+        "Year": 2019,
+        "usBlueCollar": 32.36,
+        "usUnskilled": 13.66,
+        "ukWage": 16.772,
+        "usPopulation": " 329,178,907 ",
+        "worldPopulation": " 7,764,951,040 "
+      },
+      {
+        "Year": 2020,
+        "usBlueCollar": 32.54,
+        "usUnskilled": 14.35,
+        "ukWage": 18.8913,
+        "usPopulation": " 331,449,281 ",
+        "worldPopulation": " 7,840,952,832 "
+      },
+      {
+        "Year": 2021,
+        "usBlueCollar": 33.39,
+        "usUnskilled": 14.52,
+        "ukWage": 18.7268,
+        "usPopulation": " 333,719,655 ",
+        "worldPopulation": " 7,909,295,104 "
+      },
+      {
+        "Year": 2022,
+        "usBlueCollar": 34.76,
+        "usUnskilled": 15.72,
+        "ukWage": 19.326,
+        "usPopulation": " 335,990,030 ",
+        "worldPopulation": " 7,951,149,550 "
+      },
+      {
+        "Year": 2023,
+        "usBlueCollar": 36.15,
+        "usUnskilled": 16.51,
+        "ukWage": 19.9058,
+        "usPopulation": " 339,080,235 ",
+        "worldPopulation": " 8,008,551,995 "
+      },
+      {
+        "Year": 2024,
+        "usBlueCollar": 36.50,
+        "usUnskilled": 16.51,
+        "ukWage": 19.9058,
+        "usPopulation": " 340,912,892 ",
+        "worldPopulation": " 8,082,070,900 "
+      },
+      {
+        "Year": 2025,
+        "usBlueCollar": 36.50,
+        "usUnskilled": 16.51,
+        "ukWage": 19.9058,
+        "usPopulation": " 342,715,948 ",
+        "worldPopulation": " 8,155,601,099 "
+      },
+      {
+        "Year": 2026,
+        "usBlueCollar": 36.50,
+        "usUnskilled": 16.51,
+        "ukWage": 19.9058,
+        "usPopulation": " 344,490,859 ",
+        "worldPopulation": " 8,228,375,807 "
+      },
+      {
+        "Year": 2027,
+        "usBlueCollar": 36.50,
+        "usUnskilled": 16.51,
+        "ukWage": 19.9058,
+        "usPopulation": " 346,239,014 ",
+        "worldPopulation": " 8,300,353,212 "
+      },
+      {
+        "Year": 2028,
+        "usBlueCollar": 36.50,
+        "usUnskilled": 16.51,
+        "ukWage": 19.9058,
+        "usPopulation": " 347,957,508 ",
+        "worldPopulation": " 8,371,602,130 "
+      },
+      {
+        "Year": 2029,
+        "usBlueCollar": 36.50,
+        "usUnskilled": 16.51,
+        "ukWage": 19.9058,
+        "usPopulation": " 349,652,191 ",
+        "worldPopulation": " 8,442,055,453 "
+      },
+      {
+        "Year": 2030,
+        "usBlueCollar": 36.50,
+        "usUnskilled": 16.51,
+        "ukWage": 19.9058,
+        "usPopulation": " 351,334,473 ",
+        "worldPopulation": " 351,334,473 "
+      }
+    ]
+  }
