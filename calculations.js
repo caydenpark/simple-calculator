@@ -6,17 +6,6 @@ window.addEventListener("load", (event) => {
   .then((result) => (this.data = result));
 });
 
-// const product = document.getElementById('product');
-// const startYear = document.getElementById('startYear');
-// const endYear = document.getElementById('endYear');
-// const startPrice = document.getElementById('startPrice');
-// const endPrice = document.getElementById('endPrice');
-// const startComp = document.getElementById('startComp');
-// const endComp = document.getElementById('endComp');
-// const timePriceStart = document.getElementById('timePriceStart');
-// const timePriceEnd = document.getElementById('timePriceEnd');
-// const dropDownWages = document.getElementById('dropDownWages');
-
 document.getElementById('dropDownWages').addEventListener('change', () => {
     getHourlyComp();
     performCalculations();
