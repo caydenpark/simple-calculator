@@ -52,10 +52,14 @@ tr:first-child td {
     padding-top: 10px;
 }
 
+tr:nth-child(7) td {
+    border-top: 1px solid rgba(0, 0, 0, 0.27);
+    border-bottom: 1px solid rgba(0, 0, 0, 0.27);
+}
+
 tr:last-child td {
     padding-bottom: 10px;
     padding-top: 10px;
-    border-top: 1px solid rgba(0, 0, 0, 0.27);
 }
 
 td:first-child {
@@ -118,4 +122,21 @@ select {
     visibility: visible;
     font-size: 12px;
     font-weight: 400;
+}
+
+button {
+  background-color: #dfdfdf;
+  color: rgb(61, 61, 61);
+  border: none;
+  text-align: center;
+  font-size: 15px;
+  font-weight: 900;
+  border-radius: 5px;
+  padding: 6px 6px 6px 6px;
+  margin: 0 5px 0 5px;
+}
+  
+button:hover {
+  color: #dfdfdf;
+  background-color: rgb(61, 61, 61);
 }

@@ -13,6 +13,7 @@ document.getElementById('dropDownWages').addEventListener('change', () => {
 
 document.getElementById('startComp').addEventListener('keyup', resetCustomWageDropDown);
 document.getElementById('endComp').addEventListener('keyup', resetCustomWageDropDown);
+document.getElementById('clearButton').addEventListener('click', clear);
 
 const inputFields = document.querySelectorAll('input');
 inputFields.forEach(input => {
@@ -98,6 +99,34 @@ function finishSentence() {
     
     document.getElementById("personalMultiplier").innerHTML = multiplier.toFixed(2);
     document.getElementById("personalMultiplier").classList.add('boldBlue');
+}
+
+function clear() {
+  // Reset input fields to their original values or empty strings
+  document.getElementById('product').value = '';
+  document.getElementById('startYear').value = '';
+  document.getElementById('endYear').value = '';
+  document.getElementById('startPrice').value = '';
+  document.getElementById('endPrice').value = '';
+  document.getElementById('startComp').value = '';
+  document.getElementById('endComp').value = '';
+
+  // Reset span elements to their default values
+  document.getElementById('startTimePrice').innerHTML = '---';
+  document.getElementById('endTimePrice').innerHTML = '---';
+  document.getElementById('timePricePercentageChange').innerHTML = '----';
+  document.getElementById('productSentence').innerHTML = '____';
+  document.getElementById('startYearSentence').innerHTML = '----';
+  document.getElementById('personalMultiplier').innerHTML = '----';
+  document.getElementById('endYearSentence').innerHTML = '----';
+
+  // Remove any additional classes added for styling
+  document.getElementById('startTimePrice').classList.remove('boldBlue');
+  document.getElementById('endTimePrice').classList.remove('boldBlue');
+  document.getElementById('personalMultiplier').classList.remove('boldBlue');
+
+  // Reset dropdown to default value
+  document.getElementById('dropDownWages').value = 'Custom Wage';
 }
 
 function resetCustomWageDropDown() {
