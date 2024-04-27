@@ -16,9 +16,7 @@ document.getElementById('endComp').addEventListener('keyup', resetCustomWageDrop
 document.getElementById('clearButton').addEventListener('click', clear);
 
 const inputFields = document.querySelectorAll('input');
-inputFields.forEach(input => {
-    input.addEventListener('keyup', performCalculations);
-});
+inputFields.forEach(input => {input.addEventListener('keyup', performCalculations);});
 
 function performCalculations() {
     if (allInputFieldsNotEmpty()) {
